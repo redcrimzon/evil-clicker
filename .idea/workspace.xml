@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1071f24-4e01-430f-9c41-8a6f08b76dfc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/autoclicker.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoHotkey.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evil Clicker.spec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autoclicker.ahk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autoclicker.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Evil Clicker/Analysis-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Evil Clicker/EXE-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Evil Clicker/Evil Clicker.pkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Evil Clicker/PKG-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Evil Clicker/PYZ-00.pyz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Evil Clicker/PYZ-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Evil Clicker/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Evil Clicker/warn-Evil Clicker.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Evil Clicker/xref-Evil Clicker.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

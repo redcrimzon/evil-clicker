@@ -73,7 +73,7 @@ class GlobalHotkeyThread(QThread):
             self.current_hotkey = None
 
 
-# ===== Power Button with SVG =====
+# ===== Power Button =====
 class PowerButton(QPushButton):
     def __init__(self, size=80):
         super().__init__()
@@ -90,7 +90,6 @@ class PowerButton(QPushButton):
         self.anim.setEasingCurve(QEasingCurve.OutQuad)
 
     def pulse(self):
-        # Slight grow then shrink
         grow = QSize(self.base_size + 6, self.base_size + 6)
         normal = QSize(self.base_size, self.base_size)
 
@@ -112,7 +111,7 @@ class PowerButton(QPushButton):
                 border: {border};
             }}
         """)
-        self.update()  # Trigger repaint
+        self.update()
 
     def paintEvent(self, event):
         super().paintEvent(event)
