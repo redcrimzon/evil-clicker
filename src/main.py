@@ -313,7 +313,7 @@ class App(QWidget):
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
-    app.setWindowIcon(QIcon(resource_path("../icon.ico")))
+    app.setWindowIcon(QIcon(resource_path("icon.ico")))
     w = App()
     w.show()
     sys.exit(app.exec())
