@@ -1,0 +1,19 @@
+# Python junk
+__pycache__/
+*.pyc
+
+# Builds
+*.exe
+*.spec
+dist/
+build/
+
+# Settings files
+settings.json
+
+# Temp AHK scripts
+*.ahk
+
+# OS junk
+Thumbs.db
+.DS_Store
