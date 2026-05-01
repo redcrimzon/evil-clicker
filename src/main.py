@@ -19,7 +19,7 @@ AHK_SCRIPT = r"""
 #SingleInstance Force
 SetBatchLines, -1
 
-#If WinActive("Roblox")
+#If WinActive("Roblox") && !GetKeyState("Ctrl","P") && !GetKeyState("Tab","P")
 ~LButton::
 while GetKeyState("LButton","P")
 {
